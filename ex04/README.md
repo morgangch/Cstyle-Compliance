@@ -1,0 +1,3 @@
+Les valeurs de retour, c'est flou.
+Et si une valeur "1" ne voulait pas dire d'un utilisateur à l'autre ?
+Si seulement on connaissait un moyen de normaliser ces valeurs avec un sens correct...
