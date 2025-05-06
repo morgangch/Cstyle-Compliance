@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# This script is used to clean up the build artifacts and temporary files
+find -name "#*#" -delete -o -name "*~" -delete -o -name "*.gcno" -delete -o -name "*.gcda" -delete -o -name "*.o" -delete -o -name "*.out" -delete 
